@@ -9,10 +9,10 @@ Usage python CVE-2018-4407.py d Target IP
 
 # Modes:
 
-#a = Single Packet
+a = Single Packet
 
-#b = Multiple Packets (Better Possibility)
+b = Multiple Packets (Better Possibility)
 
-#c = All possible IPs Currently limted to 192.168.1.1/24 (Takes a Long time)
+c = All possible IPs Currently limted to 192.168.1.1/24 (Takes a Long time)
 
-#d = Specific IP
+d = Specific IP
