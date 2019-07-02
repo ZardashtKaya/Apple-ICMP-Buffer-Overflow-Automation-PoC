@@ -1,13 +1,3 @@
 {
-	"kind":"aaa"
-},
-	"items": [
-	{
-	"statistics": {
-		"subscriberCount":"11111"
-		}
-	}
-	
-	]
-	}
-	
+	"subscriberCount":"11111"
+}	
